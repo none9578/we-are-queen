@@ -1,3 +1,5 @@
+DOI: 10.5281/zenodo.22742002
+
 # We are Queen
 
 A proposal for the future relationship between humans and artificial intelligence.
